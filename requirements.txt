@@ -1,4 +1,4 @@
 streamlit==1.47.0
-pandas==2.2.1  # Versão mais nova com suporte a Python 3.12+
+pandas==2.2.1
 openpyxl==3.1.2
-numpy==2.0.0   # Versão compatível com Python 3.12+
+numpy==1.26.4  # Última versão estável compatível
