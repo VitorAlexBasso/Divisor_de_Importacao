@@ -1,1 +1,1 @@
-python-3.10.12
+python-3.11.9  # Python 3.11 ainda tem distutils e é mais estável
