@@ -10,4 +10,4 @@ Aplicativo web para dividir grandes planilhas em partes menores de 5.000 linhas 
    git clone https://github.com/seu-usuario/divisor-planilhas-streamlit.git
    cd divisor-planilhas-streamlit
    pip install -r requirements.txt
-   streamlit run app.py
+   streamlit run App.py
